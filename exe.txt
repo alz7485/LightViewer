@@ -1,0 +1,1 @@
+python -m PyInstaller --noconfirm --clean --windowed --onedir --name LightViewer --icon=icon.ico --collect-all pillow_heif --collect-all py7zr --hidden-import rarfile main.py

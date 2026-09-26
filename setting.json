@@ -1,0 +1,126 @@
+{
+  "window_height": 900,
+  "window_width": 1280,
+  "bookshelf_window_width": 1280,
+  "bookshelf_window_height": 820,
+  "preview_window_width": 1280,
+  "preview_window_height": 900,
+  "preview_thumbnail_width": 1400,
+  "preview_thumbnail_height": 900,
+  "window_resize_mode": "image_ratio",
+  "auto_width_by_image": true,
+  "max_decode_megapixels": 16,
+  "bookshelf_mode": "thumbnail",
+  "bookshelf_folder_id": "*",
+  "thumbnail_size": 120,
+  "preview_thumbnail_size": 120,
+  "remember_last_book": true,
+  "last_book_id": "",
+  "last_page_by_book": {},
+  "slideshow_seconds": 4,
+  "background_color": "#17191c",
+  "cache_limit_mb": 512,
+  "bookshelf_sort": "name",
+  "expanded_shelf_ids": [],
+  "editor_resolution_mode": "full_save",
+  "key_bindings": {
+    "next_page": [
+      "Right",
+      "Space",
+      "PageDown"
+    ],
+    "previous_page": [
+      "Left",
+      "Backspace",
+      "PageUp"
+    ],
+    "next_book": [
+      "Down"
+    ],
+    "previous_book": [
+      "Up"
+    ],
+    "show_bookshelf": [
+      "B",
+      "Escape"
+    ],
+    "open_selected": [
+      "Return",
+      "Enter"
+    ],
+    "toggle_fullscreen": [
+      "F11"
+    ],
+    "zoom_in": [
+      "+",
+      "="
+    ],
+    "zoom_out": [
+      "-"
+    ],
+    "fit_image": [
+      "0"
+    ],
+    "actual_size": [
+      "1"
+    ],
+    "rotate_left": [
+      "Ctrl+Left"
+    ],
+    "rotate_right": [
+      "Ctrl+Right"
+    ],
+    "toggle_slideshow": [
+      "S"
+    ],
+    "toggle_preview_mode": [
+      "T"
+    ],
+    "open_print": [
+      "Ctrl+P"
+    ],
+    "open_editor": [
+      "E"
+    ],
+    "save_to_bookshelf": [
+      "Ctrl+Shift+B"
+    ],
+    "editor_undo": [
+      "Ctrl+Z"
+    ],
+    "editor_redo": [
+      "Ctrl+Y",
+      "Ctrl+Shift+Z"
+    ],
+    "editor_save": [
+      "Ctrl+S"
+    ],
+    "editor_save_as": [
+      "Ctrl+Shift+S"
+    ],
+    "editor_select_all": [
+      "Ctrl+A"
+    ],
+    "editor_tool_select": [
+      "V"
+    ],
+    "editor_tool_ellipse": [
+      "O"
+    ],
+    "editor_tool_rect": [
+      "R"
+    ],
+    "editor_tool_line": [
+      "L"
+    ],
+    "editor_tool_arrow": [
+      "A"
+    ],
+    "editor_tool_text": [
+      "T"
+    ],
+    "editor_tool_text_fill": [
+      "W"
+    ]
+  }
+}
